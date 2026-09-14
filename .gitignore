@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+.supabase/
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+supabase/.temp/
+Images/Archive.zip
+Images/Archive/muslim-businesswoman-feeling-tired.png
+
+.git-credentials-local/
